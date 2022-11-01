@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Climbing
+  - Player
+  - Enemy
+  - Bouncing
+  - Exit
+  - Fireball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1201799149
+    locked: 0
+  - name: Water
+    uniqueID: 1780199925
+    locked: 0
+  - name: Plaforms
+    uniqueID: 4126719683
+    locked: 0
+  - name: Exit
+    uniqueID: 1005039331
+    locked: 0
+  - name: Enemy
+    uniqueID: 910048337
+    locked: 0
+  - name: Climbing
+    uniqueID: 1853943785
+    locked: 0
+  - name: Player
+    uniqueID: 1265859233
+    locked: 0
